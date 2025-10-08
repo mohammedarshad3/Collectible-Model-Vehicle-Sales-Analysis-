@@ -34,7 +34,7 @@ Sales data analysis using Excel, SQL, Power BI, and Tableau — insights on prod
 ---
 
 ## 🧑‍💻 Author
-*Arshad*  
+*Mohammed Arshad Jawahir*  
 B.Sc. Computer Science | Data Enthusiast  
-📧 [your-email@example.com]  
-🌐 [LinkedIn Profile or Portfolio Link]
+📧 mohammedarshadjawahir@gmail.com 
+
